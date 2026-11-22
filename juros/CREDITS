@@ -1,0 +1,5 @@
+Juros compostos — créditos de terceiros
+- Fontes de traço único EMS Delight e EMS Casual Hand (Evil Mad Scientist), SIL OFL 1.1 — fonts/OFL-EMS.txt
+- Motor de giz (js/chalk.js, hand.js, r2d.js, stage.js, post.js, props.js, app.js) do estilo "Chalkboard" da biblioteca
+  Lemo-Opuscar (https://github.com/lemomo-ai/lemo-opuscar), licença MIT AND CC-BY-NC-4.0.
+- Som do giz, apagador, sino e marimba sintetizados em código (mix.py); nenhuma gravação de terceiros.
