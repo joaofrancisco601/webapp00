@@ -1,0 +1,16 @@
+Como um prédio fica de pé — créditos de terceiros
+
+Fonte
+- Jost (Owen Earl / indestructible type*), SIL Open Font License 1.1 — fonts/Jost.ttf, licença em fonts/Jost-OFL.txt
+  Fonte: https://github.com/google/fonts/tree/main/ofl/jost
+
+Código
+- engine.js: motor isométrico do estilo "Isometric Infographic" da biblioteca Lemo-Opuscar
+  (https://github.com/lemomo-ai/lemo-opuscar), licença MIT AND CC-BY-NC-4.0 conforme o repositório.
+  Ferramentas de renderização (core/render) e efeitos (core/audio/sfx.py) da mesma biblioteca.
+
+Som
+- Trilha e efeitos sintetizados em código (mix.py); nenhuma amostra ou gravação de terceiros.
+
+Imagens
+- Todo o visual é desenhado em código; nenhuma imagem gerada por IA, foto ou vídeo de terceiros.
